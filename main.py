@@ -45,4 +45,4 @@ else:
 #footer
 st.write("-  -  -")
 st.write("🚀 Keep Believing In Yourself. Growth Is a Journey, Not a Destination! 🌟")
-st.write("✴CREATED BY AISHA SIDDIQUI**")
+st.write("✴CREATED BY FAIZAN MUNEER**")
